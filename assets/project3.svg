@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360" role="img" aria-label="Capture projet 3 placeholder">
+  <rect width="100%" height="100%" fill="#f0fdf4"/>
+  <rect x="20" y="20" width="560" height="320" rx="8" fill="#dcfce7" />
+  <text x="40" y="50" fill="#0f5132" font-size="20">Projet 3 — Outil Interne</text>
+</svg>
